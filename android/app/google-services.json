@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725054572172",
+    "project_id": "cash-4a21f",
+    "storage_bucket": "cash-4a21f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725054572172:android:49266b99911e3e82b79da9",
+        "android_client_info": {
+          "package_name": "com.example.biz_manager_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJYPuUpVQirBs4n72aoA0O3w4OKU8HtW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
